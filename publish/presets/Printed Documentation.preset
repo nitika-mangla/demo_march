@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/skins.toc</path>
+      <name>skins</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/skins.glo</path>
+      <name>skins</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <generatetoc type="boolean">true</generatetoc>
+    <includereftopics type="boolean">true</includereftopics>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/skins/Printed Documentation</outputPath>
+  <starterPage>skins.pdf</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Printed Documentation</name>
+  <type>pdf</type>
+  <title>skins</title>
+  <lowercasenames type="number">0</lowercasenames>
+  <pdf>
+    <multiheaders type="boolean">false</multiheaders>
+    <margin type="array">
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+    </margin>
+  </pdf>
+</preset>
